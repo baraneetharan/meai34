@@ -1,0 +1,10 @@
+# .NET Core build folders
+bin/
+obj/
+6documents/
+1documents/
+bin/
+obj/
+.env
+*.csv
+*.md
